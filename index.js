@@ -1,2 +1,2 @@
 // write your code below!
-numberSelezctor.innL = umberSelector.innerHTML 
+console.log('Hello,World!')
