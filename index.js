@@ -1,2 +1,2 @@
 // write your code below!
-numberSelezctor.innerHTML = numberSelector.innerHTML + 1
+numberSelezctor.innL = umberSelector.innerHTML 
