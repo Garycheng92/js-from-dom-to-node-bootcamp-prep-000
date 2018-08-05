@@ -1,2 +1,2 @@
 // write your code below!
-numberSelector.innerHTML = numberSelector.innerHTML + 1
+numberSelezctor.innerHTML = numberSelector.innerHTML + 1
